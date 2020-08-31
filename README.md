@@ -5,5 +5,5 @@ I worked with PhD student Siddharth Rath, Supervised by Prof. Mehmet Sarikaya an
 ## Content
 * **tensorBuilder**: Python scripts to analyse effects of AminoAcid sequences on peptide binding affinity, PCA and wavelet transforms are used. The resulted paper can be seen by thePaper.pdf
 * **waveletTrials**: Use of wavelet transform to see its affect over binding affinity
-* **thePaper**: The paper about Predicting Peptide Binding Affinity** 
+* **thePaper**: The paper about Predicting Peptide Binding Affinity 
 
